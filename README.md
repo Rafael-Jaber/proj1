@@ -2,4 +2,4 @@
 Descrição do meu primeiro projeto
 
 Teste edição
-Linhas alterada pelo Master
+Linha de conflito
