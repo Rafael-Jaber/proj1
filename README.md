@@ -2,4 +2,4 @@
 Descrição do meu primeiro projeto
 
 Teste edição
-
+Linha de conflito
